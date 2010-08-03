@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <testsuite errors="0" failures="1" hostname="localhost" name="jtreg" tests="106" timestamp="2009-12-19T18:35:56.559444">
+        <properties/>
+        <testcase classname="JTReg" name="tools/javac/typeAnnotations/attribution/Scopes.java" time="1"/>
+        <testcase classname="JTReg" name="tools/javac/typeAnnotations/failures/common/arrayclass/DuplicateAnnotationValue.java" time="1"/>
+        <testcase classname="JTReg" name="tools/javac/typeAnnotations/failures/common/arrayclass/DuplicateTypeAnnotation.java" time="1"/>
+        <testcase classname="JTReg" name="tools/javac/typeAnnotations/failures/common/arrayclass/InvalidLocation.java" time="1"/>
+        <testcase classname="JTReg" name="tools/javac/typeAnnotations/failures/common/arrayclass/MissingAnnotationValue.java" time="1"/>
+        <testcase classname="JTReg" name="tools/javac/typeAnnotations/failures/common/arrays/DuplicateAnnotationValue.java" time="1"/>
+        <testcase classname="JTReg" name="tools/javac/typeAnnotations/failures/common/arrays/DuplicateTypeAnnotation.java" time="1"/>
+        <testcase classname="JTReg" name="tools/javac/typeAnnotations/failures/common/arrays/InvalidLocation.java" time="1"/>
+        <testcase classname="JTReg" name="tools/javac/typeAnnotations/failures/common/arrays/MissingAnnotationValue.java" time="1"/>
+        <testcase classname="JTReg" name="tools/javac/typeAnnotations/failures/common/innertypeparams/DuplicateAnnotationValue.java" time="1"/>
+        <testcase classname="JTReg" name="tools/javac/typeAnnotations/failures/common/innertypeparams/DuplicateTypeAnnotation.java" time="1"/>
+        <testcase classname="JTReg" name="tools/javac/typeAnnotations/failures/common/innertypeparams/InvalidLocation.java" time="1"/>
+        <testcase classname="JTReg" name="tools/javac/typeAnnotations/failures/common/innertypeparams/MissingAnnotationValue.java" time="1"/>
+        <testcase classname="JTReg" name="tools/javac/typeAnnotations/failures/common/newarray/DuplicateAnnotationValue.java" time="1"/>
+        <testcase classname="JTReg" name="tools/javac/typeAnnotations/failures/common/newarray/DuplicateTypeAnnotation.java" time="1"/>
+        <testcase classname="JTReg" name="tools/javac/typeAnnotations/failures/common/newarray/InvalidLocation.java" time="1"/>
+        <testcase classname="JTReg" name="tools/javac/typeAnnotations/failures/common/newarray/MissingAnnotationValue.java" time="1"/>
+        <testcase classname="JTReg" name="tools/javac/typeAnnotations/failures/common/parambounds/DuplicateAnnotationValue.java" time="1"/>
+        <testcase classname="JTReg" name="tools/javac/typeAnnotations/failures/common/parambounds/DuplicateTypeAnnotation.java" time="1"/>
+        <testcase classname="JTReg" name="tools/javac/typeAnnotations/failures/common/parambounds/InvalidLocation.java" time="1"/>
+        <testcase classname="JTReg" name="tools/javac/typeAnnotations/failures/common/parambounds/MissingAnnotationValue.java" time="1"/>
+        <testcase classname="JTReg" name="tools/javac/typeAnnotations/failures/common/receiver/DuplicateAnnotationValue.java" time="1"/>
+        <testcase classname="JTReg" name="tools/javac/typeAnnotations/failures/common/receiver/DuplicateTypeAnnotation.java" time="1"/>
+        <testcase classname="JTReg" name="tools/javac/typeAnnotations/failures/common/receiver/InvalidLocation.java" time="1"/>
+        <testcase classname="JTReg" name="tools/javac/typeAnnotations/failures/common/receiver/MissingAnnotationValue.java" time="1"/>
+        <testcase classname="JTReg" name="tools/javac/typeAnnotations/failures/common/rest/DuplicateAnnotationValue.java" time="1"/>
+        <testcase classname="JTReg" name="tools/javac/typeAnnotations/failures/common/rest/DuplicateTypeAnnotation.java" time="1"/>
+        <testcase classname="JTReg" name="tools/javac/typeAnnotations/failures/common/rest/InvalidLocation.java" time="1"/>
+        <testcase classname="JTReg" name="tools/javac/typeAnnotations/failures/common/rest/MissingAnnotationValue.java" time="1"/>
+        <testcase classname="JTReg" name="tools/javac/typeAnnotations/failures/common/typeArgs/DuplicateAnnotationValue.java" time="1"/>
+        <testcase classname="JTReg" name="tools/javac/typeAnnotations/failures/common/typeArgs/DuplicateTypeAnnotation.java" time="1"/>
+        <testcase classname="JTReg" name="tools/javac/typeAnnotations/failures/common/typeArgs/InvalidLocation.java" time="1"/>
+        <testcase classname="JTReg" name="tools/javac/typeAnnotations/failures/common/typeArgs/MissingAnnotationValue.java" time="1"/>
+        <testcase classname="JTReg" name="tools/javac/typeAnnotations/failures/common/typeparams/DuplicateAnnotationValue.java" time="1"/>
+        <testcase classname="JTReg" name="tools/javac/typeAnnotations/failures/common/typeparams/DuplicateTypeAnnotation.java" time="1"/>
+        <testcase classname="JTReg" name="tools/javac/typeAnnotations/failures/common/typeparams/InvalidLocation.java" time="1"/>
+        <testcase classname="JTReg" name="tools/javac/typeAnnotations/failures/common/typeparams/MissingAnnotationValue.java" time="1"/>
+        <testcase classname="JTReg" name="tools/javac/typeAnnotations/failures/common/wildcards/DuplicateAnnotationValue.java" time="1"/>
+        <testcase classname="JTReg" name="tools/javac/typeAnnotations/failures/common/wildcards/DuplicateTypeAnnotation.java" time="1"/>
+        <testcase classname="JTReg" name="tools/javac/typeAnnotations/failures/common/wildcards/InvalidLocation.java" time="1"/>
+        <testcase classname="JTReg" name="tools/javac/typeAnnotations/failures/common/wildcards/MissingAnnotationValue.java" time="1"/>
+        <testcase classname="JTReg" name="tools/javac/typeAnnotations/failures/target/Constructor.java" time="1"/>
+        <testcase classname="JTReg" name="tools/javac/typeAnnotations/failures/target/IncompleteArray.java" time="1"/>
+        <testcase classname="JTReg" name="tools/javac/typeAnnotations/failures/target/NotTypeParameter.java" time="1"/>
+        <testcase classname="JTReg" name="tools/javac/typeAnnotations/failures/target/NotTypeUse.java" time="1"/>
+        <testcase classname="JTReg" name="tools/javac/typeAnnotations/failures/target/VoidMethod.java" time="1"/>
+        <testcase classname="JTReg" name="tools/javac/typeAnnotations/failures/AnnotationVersion.java" time="1"/>
+        <testcase classname="JTReg" name="tools/javac/typeAnnotations/failures/IncompleteArray.java" time="1"/>
+        <testcase classname="JTReg" name="tools/javac/typeAnnotations/failures/IncompleteVararg.java" time="1"/>
+        <testcase classname="JTReg" name="tools/javac/typeAnnotations/failures/IndexArray.java" time="1"/>
+        <testcase classname="JTReg" name="tools/javac/typeAnnotations/failures/LintCast.java" time="1"/>
+        <testcase classname="JTReg" name="tools/javac/typeAnnotations/failures/OldArray.java" time="1"/>
+        <testcase classname="JTReg" name="tools/javac/typeAnnotations/failures/Scopes.java" time="1"/>
+        <testcase classname="JTReg" name="tools/javac/typeAnnotations/failures/StaticFields.java" time="1"/>
+        <testcase classname="JTReg" name="tools/javac/typeAnnotations/failures/StaticMethods.java" time="1"/>
+        <testcase classname="JTReg" name="tools/javac/typeAnnotations/failures/VoidGenericMethod.java" time="1"/>
+        <testcase classname="JTReg" name="tools/javac/typeAnnotations/newlocations/BasicTest.java" time="1"/>
+        <testcase classname="JTReg" name="tools/javac/typeAnnotations/newlocations/ClassExtends.java" time="1"/>
+        <testcase classname="JTReg" name="tools/javac/typeAnnotations/newlocations/ClassLiterals.java" time="1"/>
+        <testcase classname="JTReg" name="tools/javac/typeAnnotations/newlocations/ClassParameters.java" time="1"/>
+        <testcase classname="JTReg" name="tools/javac/typeAnnotations/newlocations/ConstructorTypeArgs.java" time="1"/>
+        <testcase classname="JTReg" name="tools/javac/typeAnnotations/newlocations/Expressions.java" time="1"/>
+        <testcase classname="JTReg" name="tools/javac/typeAnnotations/newlocations/Fields.java" time="1"/>
+        <testcase classname="JTReg" name="tools/javac/typeAnnotations/newlocations/LocalVariables.java" time="1"/>
+        <testcase classname="JTReg" name="tools/javac/typeAnnotations/newlocations/MethodReturnType.java" time="1"/>
+        <testcase classname="JTReg" name="tools/javac/typeAnnotations/newlocations/MethodTypeArgs.java" time="1"/>
+        <testcase classname="JTReg" name="tools/javac/typeAnnotations/newlocations/MethodTypeParameters.java" time="1"/>
+        <testcase classname="JTReg" name="tools/javac/typeAnnotations/newlocations/Parameters.java" time="1"/>
+        <testcase classname="JTReg" name="tools/javac/typeAnnotations/newlocations/Receivers.java" time="1"/>
+        <testcase classname="JTReg" name="tools/javac/typeAnnotations/newlocations/Throws.java" time="1"/>
+        <testcase classname="JTReg" name="tools/javac/typeAnnotations/newlocations/TypeCasts.java" time="1"/>
+        <testcase classname="JTReg" name="tools/javac/typeAnnotations/newlocations/TypeParameters.java" time="1"/>
+        <testcase classname="JTReg" name="tools/javac/typeAnnotations/newlocations/Varargs.java" time="1"/>
+        <testcase classname="JTReg" name="tools/javac/typeAnnotations/newlocations/Wildcards.java" time="1"/>
+        <testcase classname="JTReg" name="tools/javac/typeAnnotations/packageanno/PackageProcessor.java" time="1"/>
+        <testcase classname="JTReg" name="tools/javac/typeAnnotations/InnerClass.java" time="1"/>
+        <testcase classname="JTReg" name="tools/javac/typeAnnotations/MultipleTargets.java" time="1"/>
+        <testcase classname="JTReg" name="tools/javac/typeAnnotations/TargetTypes.java" time="1"/>
+        <testcase classname="JTReg" name="tools/javac/typeAnnotations/TypeParameterTarget.java" time="1">
+            <failure type="java.lang.AssertionError">
+                ----------------------------------------------
+== script_messages
+messages
+JDK under test: (/System/Library/Frameworks/JavaVM.framework/Versions/soylatte16-amd64-1.0.3)
+java version &quot;1.6.0_03-p3&quot;
+Java(TM) SE Runtime Environment (build 1.6.0_03-p3-landonf_19_aug_2008_15_52-b00)
+Java HotSpot(TM) 64-Bit Server VM (build 1.6.0_03-p3-landonf_19_aug_2008_15_52-b00, mixed mode)
+----------------------------------------------
+== compile
+messages
+command: compile -source 1.7 /Users/mahmood/research/jsr308-langtools/test/tools/javac/typeAnnotations/TypeParameterTarget.java
+reason: User specified action: run compile -source 1.7 TypeParameterTarget.java 
+elapsed time (seconds): 0.0040
+direct
+/Users/mahmood/research/jsr308-langtools/test/tools/javac/typeAnnotations/TypeParameterTarget.java:36: ';' expected
+kldjf  String[] field;
+               ^
+/Users/mahmood/research/jsr308-langtools/test/tools/javac/typeAnnotations/TypeParameterTarget.java:36: &lt;identifier&gt; expected
+kldjf  String[] field;
+                     ^
+2 errors
+
+            </failure>
+        </testcase>
+        <testcase classname="JTReg" name="tools/javac/typeAnnotations/TypeProcOnly.java" time="1"/>
+        <testcase classname="JTReg" name="tools/javac/typeAnnotations/TypeUseTarget.java" time="1"/>
+        <testcase classname="JTReg" name="tools/javap/typeAnnotations/referenceinfos/ClassExtends.java" time="1"/>
+        <testcase classname="JTReg" name="tools/javap/typeAnnotations/referenceinfos/ClassLiterals.java" time="1"/>
+        <testcase classname="JTReg" name="tools/javap/typeAnnotations/referenceinfos/ClassTypeParam.java" time="1"/>
+        <testcase classname="JTReg" name="tools/javap/typeAnnotations/referenceinfos/Fields.java" time="1"/>
+        <testcase classname="JTReg" name="tools/javap/typeAnnotations/referenceinfos/MethodParameters.java" time="1"/>
+        <testcase classname="JTReg" name="tools/javap/typeAnnotations/referenceinfos/MethodReceivers.java" time="1"/>
+        <testcase classname="JTReg" name="tools/javap/typeAnnotations/referenceinfos/MethodReturns.java" time="1"/>
+        <testcase classname="JTReg" name="tools/javap/typeAnnotations/referenceinfos/MethodThrows.java" time="1"/>
+        <testcase classname="JTReg" name="tools/javap/typeAnnotations/referenceinfos/MethodTypeParam.java" time="1"/>
+        <testcase classname="JTReg" name="tools/javap/typeAnnotations/referenceinfos/NewObjects.java" time="1"/>
+        <testcase classname="JTReg" name="tools/javap/typeAnnotations/referenceinfos/TypeCasts.java" time="1"/>
+        <testcase classname="JTReg" name="tools/javap/typeAnnotations/referenceinfos/TypeTests.java" time="1"/>
+        <testcase classname="JTReg" name="tools/javap/typeAnnotations/ArrayClassLiterals.java" time="1"/>
+        <testcase classname="JTReg" name="tools/javap/typeAnnotations/ClassLiterals.java" time="1"/>
+        <testcase classname="JTReg" name="tools/javap/typeAnnotations/DeadCode.java" time="1"/>
+        <testcase classname="JTReg" name="tools/javap/typeAnnotations/JSR175Annotations.java" time="1"/>
+        <testcase classname="JTReg" name="tools/javap/typeAnnotations/NewArray.java" time="1"/>
+        <testcase classname="JTReg" name="tools/javap/typeAnnotations/NewTypeArguments.java" time="1"/>
+        <testcase classname="JTReg" name="tools/javap/typeAnnotations/NoTargetAnnotations.java" time="1"/>
+        <testcase classname="JTReg" name="tools/javap/typeAnnotations/Presence.java" time="1"/>
+        <testcase classname="JTReg" name="tools/javap/typeAnnotations/PresenceInner.java" time="1"/>
+        <testcase classname="JTReg" name="tools/javap/typeAnnotations/T6855990.java" time="1"/>
+        <testcase classname="JTReg" name="tools/javap/typeAnnotations/TypeCasts.java" time="1"/>
+        <testcase classname="JTReg" name="tools/javap/typeAnnotations/Visibility.java" time="1"/>
+        <testcase classname="JTReg" name="tools/javap/typeAnnotations/Wildcards.java" time="1"/>
+    </testsuite>
